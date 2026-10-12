@@ -1,0 +1,1 @@
+D:/other/课程/系统开发/AI_TEF/scripts/generate_course_doc.py

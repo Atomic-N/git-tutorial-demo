@@ -1,0 +1,11 @@
+# 数据库配置示例文件
+# 使用前请：
+# 1. 复制此文件为 db.properties
+# 2. 修改下面的配置为你的实际值
+
+jdbc.url=jdbc:mysql://localhost:3306/ai_tef?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&useSSL=false&allowPublicKeyRetrieval=true
+jdbc.username=root
+jdbc.password=YOUR_PASSWORD_HERE
+jdbc.driver=com.mysql.cj.jdbc.Driver
+jdbc.pool.maximumPoolSize=10
+jdbc.pool.minimumIdle=2

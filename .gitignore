@@ -1,0 +1,9 @@
+target/
+.idea/
+*.iml
+*.log
+*.war
+*.class
+
+# 数据库配置文件（包含敏感信息）
+src/main/resources/db.properties
